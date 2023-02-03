@@ -1,0 +1,16 @@
+2023-02-03 13:52:42,739 [main]  INFO com.digitalhouse.model.Leao:49 - O leao Simba esta correndo 
+2023-02-03 13:52:42,741 [main]  INFO com.digitalhouse.model.Leao:54 - O leão Simba é maior que 10 anos!
+2023-02-03 13:52:42,741 [main]  INFO com.digitalhouse.model.Tigre:46 - O tigre Pantro esta correndo 
+2023-02-03 13:53:16,581 [main]  INFO com.digitalhouse.model.Leao:49 - O leao Simba esta correndo 
+2023-02-03 13:53:16,584 [main]  INFO com.digitalhouse.model.Leao:54 - O leão Simba é maior que 10 anos!
+2023-02-03 13:53:16,585 [main]  INFO com.digitalhouse.model.Tigre:46 - O tigre Pantro esta correndo 
+2023-02-03 13:55:15,037 [main]  INFO com.digitalhouse.model.Leao:49 - O leao Simba esta correndo 
+2023-02-03 13:55:15,039 [main]  INFO com.digitalhouse.model.Leao:54 - O leão Simba é maior que 10 anos!
+2023-02-03 13:55:15,044 [main]  INFO com.digitalhouse.model.Tigre:46 - O tigre Pantro esta correndo 
+2023-02-03 13:56:21,374 [main]  INFO com.digitalhouse.model.Leao:49 - O leao Simba esta correndo 
+2023-02-03 13:56:21,376 [main]  INFO com.digitalhouse.model.Leao:54 - O leão Simba é maior que 10 anos!
+2023-02-03 13:56:21,377 [main]  INFO com.digitalhouse.model.Tigre:46 - O tigre Pantro esta correndo 
+2023-02-03 13:59:59,594 [main]  INFO com.digitalhouse.model.Leao:49 - O leao Simba esta correndo 
+2023-02-03 13:59:59,596 [main]  INFO com.digitalhouse.model.Leao:54 - O leão Simba é maior que 10 anos!
+2023-02-03 13:59:59,597 [main]  INFO com.digitalhouse.model.Tigre:47 - O tigre Pantro esta correndo 
+2023-02-03 13:59:59,598 [main] ERROR com.digitalhouse.model.Tigre:56 - A idade não pode ser negativa!
